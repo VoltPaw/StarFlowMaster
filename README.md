@@ -86,7 +86,7 @@
 StarFlowMaster/
 ├── main_app.py             # 程序主入口 (GUI与核心逻辑)
 ├── app_icon.ico            # app图标
-└── 打包步骤/               # 关于如何打包 EXE 的说明
+└── 打包exe步骤说明          # 关于如何打包 EXE 的说明
 ```
 
 ## 打包指南
